@@ -1,5 +1,3 @@
-# meeeeeee
-its all about me 
 <html>
     <head>
         <title>
@@ -37,7 +35,7 @@ its all about me
                     video game is "The Strongest Battleground" </h2>
                     <hr>
                     > <img src=
-                    "C:\Users\planet\Downloads\static-assets-upload4890496958132245691.webp" alt="the game i was
+                    "C:\Users\planet\Downloads\static-assets-upload4890496958132245691.png" alt="the game i was
                     talking about" /> 
                     <h2> My favourite Anime is "Attack On Titan" for sure </h2>
                     <img src="C:\Users\planet\Downloads\p10701949_b_v8_ah.jpg"   
@@ -49,3 +47,4 @@ its all about me
                 </body>
                  </html>
                 
+
