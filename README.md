@@ -38,7 +38,7 @@
                     "C:\Users\planet\Downloads\static-assets-upload4890496958132245691.png" alt="the game i was
                     talking about" /> 
                     <h2> My favourite Anime is "Attack On Titan" for sure </h2>
-                    <img src="C:\Users\planet\Downloads\p10701949_b_v8_ah.jpg"   
+                    <img src="p10701949_b_v8_ah.jpg"   
                     alt="the anime i was talking about" />
                  <h2> thats it for now pookie </h2>  
                  <h2>Alr Cya</h2> 
