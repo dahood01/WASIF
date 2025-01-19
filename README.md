@@ -35,7 +35,7 @@
                     video game is "The Strongest Battleground" </h2>
                     <hr>
                     > <img src=
-                    "C:\Users\planet\Downloads\static-assets-upload4890496958132245691.png" alt="the game i was
+                    "static-assets-upload4890496958132245691.png" alt="the game i was
                     talking about" /> 
                     <h2> My favourite Anime is "Attack On Titan" for sure </h2>
                     <img src="p10701949_b_v8_ah.jpg"   
