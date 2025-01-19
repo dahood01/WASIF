@@ -17,7 +17,7 @@
                 showMessage();
                 </script>
 
-                <img src="C:\Users\planet\Downloads\Gojo what the sigma.jpeg"
+                <img src="Gojo what the sigma.jpeg"
                 alt="this is me" />
                  <h2> THIS IS MYSELF </h2>
                  <hr>
