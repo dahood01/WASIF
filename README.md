@@ -42,7 +42,7 @@
                     alt="the anime i was talking about" />
                  <h2> thats it for now pookie </h2>  
                  <h2>Alr Cya</h2> 
-                 <img src="C:\Users\planet\Downloads\Baby Girl Sukuna_.jpeg" alt="goofy ahh person" />
+                 <img src="Baby Girl Sukuna_.jpeg" alt="goofy ahh person" />
                 
                 </body>
                  </html>
