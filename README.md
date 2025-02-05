@@ -4,7 +4,7 @@
             ABOUT ME
                </title>
             </head>
-            <body bgcolor="lightgreen"> 
+            <body bgcolor="#00FFFF"> 
                 <audio controls autoplay loop> <source scr="C:\Users\planet\Downloads\Baja Moons - National Sweetheart.mp3">
                 </audio>
                 <script> 
